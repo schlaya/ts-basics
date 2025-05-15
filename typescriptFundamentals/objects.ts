@@ -13,7 +13,7 @@ class PointObject {
     }
 }
 
-let point = new Point();
+let point = new PointObject();
 point.x = 1;
 point.y = 2;
 point.draw();
