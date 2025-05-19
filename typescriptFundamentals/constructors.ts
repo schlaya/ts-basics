@@ -15,5 +15,4 @@ class PointConstructor {
 }
 
 let pointConstructor = new PointConstructor(1, 2);
-pointConstructor.x = 2
 pointConstructor.draw();
